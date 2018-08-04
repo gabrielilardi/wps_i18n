@@ -6,234 +6,236 @@
     <name>KTranslator</name>
     <message>
         <source> Minute</source>
-        <translation type="unfinished"></translation>
+        <translation> Minuto</translation>
     </message>
     <message>
         <source>Being calculated</source>
-        <translation type="unfinished"></translation>
+        <translation>Calcolando</translation>
     </message>
     <message>
         <source>Being converted</source>
-        <translation type="unfinished"></translation>
+        <translation>In conversione</translation>
     </message>
     <message>
         <source>Ready to convert, please wait</source>
-        <translation type="unfinished"></translation>
+        <translation>Pronto per la conversione, attendi.</translation>
     </message>
     <message>
         <source>Second</source>
-        <translation type="unfinished"></translation>
+        <translation>Secondo</translation>
     </message>
     <message>
         <source>Slide %1
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Diapositiva %1</translation>
     </message>
     <message>
         <source>Start converting</source>
-        <translation type="unfinished"></translation>
+        <translation>Inizio conversione</translation>
     </message>
     <message>
         <source>Still Need:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mancano ancora:</translation>
     </message>
     <message>
         <source>Note;</source>
-        <translation type="unfinished"></translation>
+        <translation>Nota;</translation>
     </message>
 </context>
 <context>
     <name>ProcessDialog</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annulla</translation>
     </message>
     <message>
         <source>Open File</source>
-        <translation type="unfinished"></translation>
+        <translation>Apri file</translation>
     </message>
     <message>
         <source>Ready to convert</source>
-        <translation type="unfinished"></translation>
+        <translation>Pronto per la conversione</translation>
     </message>
     <message>
         <source>Translate to WPS Writer Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Converti in documento di WPS Writer</translation>
     </message>
     <message>
         <source>Still Need: being calculated</source>
-        <translation type="unfinished"></translation>
+        <translation>Mancano ancora: calcolando</translation>
     </message>
 </context>
 <context>
     <name>changeAsWpsDialog</name>
     <message>
-        <source>&amp;Current Slide</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>1</source>
-        <translation type="unfinished"></translation>
+        <translation>1</translation>
     </message>
     <message>
         <source>2</source>
-        <translation type="unfinished"></translation>
+        <translation>2</translation>
     </message>
     <message>
         <source>3</source>
-        <translation type="unfinished"></translation>
+        <translation>3</translation>
     </message>
     <message>
         <source>4</source>
-        <translation type="unfinished"></translation>
+        <translation>4</translation>
     </message>
     <message>
         <source>According to original layout(&amp;O)</source>
-        <translation type="unfinished"></translation>
+        <translation>Secondo il lay&amp;out originale</translation>
     </message>
     <message>
         <source>Add blank line to slide:</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiungi riga vuota alla diapositiva:</translation>
     </message>
     <message>
         <source>Add notes to slide:</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiungi note alla diapositiva:</translation>
     </message>
     <message>
         <source>All(&amp;A)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tutte(&amp;A)</translation>
     </message>
     <message>
         <source>Below(&amp;B)</source>
-        <translation type="unfinished"></translation>
+        <translation>Sotto(&amp;B)</translation>
     </message>
     <message>
         <source>Below(&amp;N)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Converted Content</source>
-        <translation type="unfinished"></translation>
+        <translation>Sotto(&amp;N)</translation>
     </message>
     <message>
         <source>Converted Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Layout convertito</translation>
     </message>
     <message>
         <source>Number slides in the document</source>
-        <translation type="unfinished"></translation>
+        <translation>Numera le diapositive nel documento</translation>
     </message>
     <message>
         <source>Picture(&amp;I)</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Immagine</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Anteprima</translation>
     </message>
     <message>
         <source>Right(&amp;H)</source>
-        <translation type="unfinished"></translation>
+        <translation>A destra(&amp;H)</translation>
     </message>
     <message>
         <source>Right(&amp;R)</source>
-        <translation type="unfinished"></translation>
+        <translation>A dest&amp;ra</translation>
     </message>
     <message>
         <source>Select Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleziona diapositiva</translation>
     </message>
     <message>
         <source>Selection(&amp;S)</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Selezione</translation>
     </message>
     <message>
         <source>Slides(&amp;P):</source>
-        <translation type="unfinished"></translation>
+        <translation>Dia&amp;positive:</translation>
     </message>
     <message>
         <source>Table(&amp;L)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabe&amp;lla</translation>
     </message>
     <message>
         <source>Text(&amp;T)</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Testo</translation>
+    </message>
+    <message>
+        <source>&amp;Current Slide</source>
+        <translation>Diapositiva &amp;attuale</translation>
+    </message>
+    <message>
+        <source>Converted Content</source>
+        <translation>Contenuto convertito</translation>
     </message>
     <message>
         <source>Translate to WPS Writer Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Converti in documento di WPS Writer</translation>
     </message>
     <message>
         <source>Slide per page</source>
-        <translation type="unfinished"></translation>
+        <translation>Diapositive per pagina</translation>
     </message>
 </context>
 <context>
     <name>kxProgressdlg</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiudi</translation>
     </message>
     <message>
         <source>Converting to WPS Writer document encountered an error.</source>
-        <translation type="unfinished"></translation>
+        <translation>C&apos;è stato un problema durante la conversione in documento di WPS Writer.</translation>
     </message>
     <message>
         <source>The conversion is completed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Conversione completata.</translation>
     </message>
 </context>
 <context>
     <name>kxwpptodocdlg</name>
     <message>
         <source>&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;</translation>
     </message>
     <message>
         <source>Input slide number or slide range. For example, 1,3,5-9</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserisci un numero di diapositiva o un intervallo di diapositive. Ad esempio, 1,3,5-9</translation>
+    </message>
+    <message>
+        <source>WPS Presentation</source>
+        <translation>WPS Presentation</translation>
+    </message>
+    <message>
+        <source>WPS Writer Document(*.wps)</source>
+        <translation>Documento di WPS Writer(*.wps)</translation>
     </message>
     <message>
         <source>Microsoft Word 97/2000/XP/2003 Document(*.doc)</source>
-        <translation type="unfinished"></translation>
+        <translation>Documento di Microsoft Word 97/2000/XP/2003(*.doc)</translation>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished"></translation>
+        <translation>Salva come</translation>
     </message>
     <message>
         <source>The file &quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Il file &quot;</translation>
     </message>
     <message>
         <source>The number must be 1 or 2.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The number must be 1, 2, 3,or 4.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il numero deve essere 1 o 2.</translation>
     </message>
     <message>
         <source>This is a valid number.
 Please input slide number or slide range. 
 For example, 1,3,5-9.</source>
-        <translation type="unfinished"></translation>
+        <translation>Non è un numero valido.
+Inserisci un numero di diapositiva o intervallo di diapositive. 
+Ad esempio, 1,3,5-9.</translation>
     </message>
     <message>
-        <source>WPS Presentation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Writer Document(*.wps)</source>
-        <translation type="unfinished"></translation>
+        <source>The number must be 1, 2, 3,or 4.</source>
+        <translation>Il numero deve essere 1, 2, 4, o 4.</translation>
     </message>
     <message>
         <source>The name already exists. You cannot save the file with the same name as another open file. Choose a different name, or close the open file before saving.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il nome esiste già. Non puoi salvare il file con il nome di un file già aperto. Scegli un nome diverso, o chiudi il file aperto prima di salvare.</translation>
     </message>
     <message>
         <source>No Select Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Nessuna diapositiva selezionata</translation>
     </message>
 </context>
 </TS>

@@ -6,44 +6,35 @@
     <name>KLauncherWidgetClass</name>
     <message>
         <source>KLauncherWidget</source>
-        <translation type="unfinished"></translation>
+        <translation>KLauncherWidget</translation>
     </message>
     <message>
-        <source>Welcome to WPS Office</source>
-        <translation type="unfinished"></translation>
+        <source>Welcome to the WPS Office</source>
+        <translation type="obsolete">Welcome to WPS Office</translation>
     </message>
     <message>
         <source>WPS Writer</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Writer</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Presentation</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Spreadsheets</translation>
+    </message>
+    <message>
+        <source>Create shortcuts to desktop</source>
+        <translation type="obsolete">Create desktop shortcuts</translation>
+    </message>
+    <message>
+        <source>Welcome to WPS Office</source>
+        <translation>Benvenuto(a) in WPS Office</translation>
     </message>
     <message>
         <source>Create desktop shortcuts</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>QObject</name>
-    <message>
-        <source>Usage: %1 
-</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>    or %1 &lt;wps|wpp|et&gt; [document_path]
-</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>:/qm/%1.qm</source>
-        <translation type="unfinished"></translation>
+        <translation>Crea collegamenti sul desktop</translation>
     </message>
 </context>
 </TS>

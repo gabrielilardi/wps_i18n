@@ -5,91 +5,91 @@
     <name>KGalleryClient</name>
     <message>
         <source>gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>galleria</translation>
     </message>
     <message>
         <source>shape</source>
-        <translation type="unfinished"></translation>
+        <translation>forma</translation>
     </message>
 </context>
 <context>
     <name>KxDlgEditGallery</name>
     <message>
         <source>From:</source>
-        <translation type="unfinished"></translation>
+        <translation>Da:</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Testo</translation>
     </message>
     <message>
         <source>Caption:</source>
-        <translation type="unfinished"></translation>
+        <translation>Didascalia:</translation>
     </message>
     <message>
         <source>Label:</source>
-        <translation type="unfinished"></translation>
+        <translation>Etichetta:</translation>
     </message>
     <message>
         <source>More:</source>
-        <translation type="unfinished"></translation>
+        <translation>Più:</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Directory:</source>
-        <translation type="unfinished"></translation>
+        <translation>Cartella:</translation>
     </message>
     <message>
         <source>Notes:</source>
-        <translation type="unfinished"></translation>
+        <translation>Note:</translation>
     </message>
     <message>
         <source>Less:</source>
-        <translation type="unfinished"></translation>
+        <translation>Meno:</translation>
     </message>
     <message>
         <source>Edit Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifica galleria</translation>
     </message>
     <message>
         <source>The most number of caption is 5.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il numero masismo di discascalie è 5.</translation>
     </message>
 </context>
 <context>
     <name>KxEditGalleryDlg</name>
     <message>
         <source>More</source>
-        <translation type="unfinished"></translation>
+        <translation>Più</translation>
     </message>
     <message>
         <source>Less</source>
-        <translation type="unfinished"></translation>
+        <translation>Meno</translation>
     </message>
 </context>
 <context>
     <name>QApplication</name>
     <message>
         <source>\WPS Office\Desktop.ini name.</source>
-        <translation type="unfinished"></translation>
+        <translation>\WPS Office\Desktop.ini name.</translation>
     </message>
     <message>
         <source>\WPS Office\AppData\Desktop.ini name.</source>
-        <translation type="unfinished"></translation>
+        <translation>\WPS Office\AppData\Desktop.ini name.</translation>
     </message>
     <message>
         <source>\WPS Office\AppData\My Materials\Desktop.ini name.</source>
-        <translation type="unfinished"></translation>
+        <translation>\WPS Office\AppData\My Materials\Desktop.ini name.</translation>
     </message>
 </context>
 <context>
     <name>WPSGalleryClass</name>
     <message>
         <source>WPSGallery</source>
-        <translation type="unfinished"></translation>
+        <translation>Galleria WPS</translation>
     </message>
 </context>
 </TS>

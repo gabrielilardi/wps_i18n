@@ -6,23 +6,23 @@
     <name>KxHrSelDialog</name>
     <message>
         <source>Ya Hei</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Ya Hei</translation>
     </message>
     <message>
         <source>Caption</source>
-        <translation type="unfinished"></translation>
+        <translation>Didascalia</translation>
     </message>
     <message>
         <source>Choose high resolution setting</source>
-        <translation type="unfinished"></translation>
+        <translation>Impostazioni di alta risoluzione</translation>
     </message>
     <message>
         <source>Auto scaling</source>
-        <translation type="unfinished"></translation>
+        <translation>Scaling automatico</translation>
     </message>
     <message>
         <source>Forbiden scaling</source>
-        <translation type="unfinished"></translation>
+        <translation>Scaling non ammesso</translation>
     </message>
 </context>
 </TS>
